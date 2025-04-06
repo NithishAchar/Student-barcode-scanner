@@ -156,8 +156,8 @@ The application is fully responsive and tested on:
 ## 📞 Contact & Support
 
 For questions, suggestions, or support:
-- Email: nraoswasthik2004@gmail.com
-- LinkedIn: [Swasthik N Rao](https://www.linkedin.com/in/swasthik-n-rao)
+- Email: nithishachar29@gmail.com
+- LinkedIn: [Nithish Acharya](https://www.linkedin.com/in/nithish-acharya-aa7283290)
 
 ## 📄 License
 
